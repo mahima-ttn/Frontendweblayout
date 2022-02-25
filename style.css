@@ -23,6 +23,15 @@
     font-size: 100px;
     padding: 5px;
 }
+/* .project-section span{
+    height: 10px;
+    width: 10px;
+    margin-top: 2px;
+    float: right;
+    background-color: rgb(71, 150, 240);
+    border-radius: 50%;
+    display: inline-block;
+} */
 .project-section i{
     font-size: 20px;
     display: inline-block;
